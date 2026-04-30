@@ -1,6 +1,7 @@
 # 🖼️ Image Caption Generator
 
 A local AI-powered image captioning app that generates natural language captions from uploaded images using the **BLIP image-to-text model**.
+Step by step details under Images/ ppt
 
 ## 🚀 Overview
 
@@ -27,4 +28,4 @@ Model:
 
 ```text
 Salesforce/blip-image-captioning-base
-Step by step details under Images/ ppt
+
